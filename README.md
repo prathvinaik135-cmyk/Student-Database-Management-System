@@ -27,6 +27,10 @@ Run the program:
 
     java StudentDatabaseManagementSystem
 
+## Output
+
+![Student Database Management System Output](student-database-output.png)
+
 ## Note
 Student records are stored temporarily in memory.
 They are not saved after the program exits.
